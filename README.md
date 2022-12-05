@@ -1,4 +1,4 @@
-# JP_Morgan_Chase_Intenrship
+# JP_Morgan_Chase_Internship
 This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
 I have worked on the following tasks during the internship
 1. Interface with a stock price data feed Click here to see Task-1
